@@ -1,0 +1,2 @@
+# fast-go
+fast go
